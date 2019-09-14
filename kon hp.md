@@ -1,6 +1,6 @@
-![ホームページ](/web-homepage-lesson/top.PNG)  
+<img width="1200px" alt="ホームページ" src="./top.PNG"> 
 
-#導入事例  
+# 導入事例  
 2019/09/14 ○○市での導入  
 
 2019/10/28 △△町での導入
