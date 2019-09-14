@@ -2,8 +2,7 @@
 
 
 # タブレット使用方法  
-<img width="700px" alt="使い方" src="./タブレットの使い方.PNG">   <br>
-毎日三回のボタンを押すことでコンを貯めよう！<br>
+<img width="700px" alt="使い方" src="./タブレットの使い方.PNG">   
 # 導入事例  
 * 2019/09/14 ○○市での導入  
 コンが使えるお店は約200店舗   
@@ -21,3 +20,12 @@
 * # スーパー  <img width="100px" alt="スーパー" src="./super.png">
 * # 雑貨良品店  <img width="100px" alt="雑貨" src="./zakka.png">
 * # 特産品  <img width="100px" alt="雑貨" src="./tokusanhin.png">
+## 申し込み方法
+<details>
+<summary> 方法① </summary>
+<img width="300px" alt="方法１" src="./mousikomi1.PNG">
+</details>
+<details>
+<summary> 方法② </summary>
+<img width="300px" alt="方法２" src="./mousikomi2.PNG">
+</details>
