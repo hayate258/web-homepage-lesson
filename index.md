@@ -1,4 +1,4 @@
-<img width="1200px" alt="レストラン" src="./top.PNG">  
+<img width="1300px" alt="ホームページ" src="./top.PNG">  
 
 # 導入事例  
 2019/09/14 ○○市での導入  
