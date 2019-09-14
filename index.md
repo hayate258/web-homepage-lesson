@@ -18,13 +18,13 @@
 2019年5月11日発売開始、同年9月30日まで利用可能。  
 総発行コンは1千万円相当（プレミアム率10%）  
 # ポイント利用例  
-## コンを還元  
-* # プレミアム商品券  
+### コンを還元  
+* ## プレミアム商品券  
 ## コンを利用  
-* # レストラン  <img width="100px" alt="レストラン" src="./ten0017-001.jpg">
-* # スーパー  <img width="100px" alt="スーパー" src="./super.png">
-* # 雑貨量販店  <img width="100px" alt="雑貨" src="./zakka.png">
-* # 特産品  <img width="100px" alt="雑貨" src="./tokusanhin.png">
+* ## レストラン  <img width="100px" alt="レストラン" src="./ten0017-001.jpg">
+* ## スーパー  <img width="100px" alt="スーパー" src="./super.png">
+* ## 雑貨量販店  <img width="100px" alt="雑貨" src="./zakka.png">
+* ## 特産品  <img width="100px" alt="雑貨" src="./tokusanhin.png">
 # 申し込み方法
 <details>
 <summary> 方法① </summary>
